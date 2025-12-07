@@ -33,7 +33,7 @@ README.txt             → Documentation file
 
 Installation:
 1. Clone the repo:
-   git clone https://github.com/prince0911-tech/student-management-system
+   git clone https://github.com/AMNavinKumar2701/AI-ML-Apna-College-/edit/main/README.md
 
 2. Navigate to the folder:
    cd student-management-system
@@ -51,7 +51,7 @@ Menu System:
 7. Exit
 
 Example JSON Output:
-[{"name": "Prince", "age": 21, "course": "AI/ML", "marks": 92}]
+[{"name": "Naveen", "age": 23, "course": "AI/ML", "marks": 92}]
 
 Future Improvements:
 - Add GUI
